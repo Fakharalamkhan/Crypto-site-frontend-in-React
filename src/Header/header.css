@@ -1,0 +1,42 @@
+.header {
+    position: relative;
+    height: 100px;
+    background-color: #ffffff; /* Replace with your desired background color */
+  }
+  
+  /* Common styles for the header items */
+  .headerItem {
+    position: absolute;
+    top: 0;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  
+  /* Header item positions for desktop */
+  .home {
+    left: 0;
+  }
+  
+  .aboutUs {
+    left: 87px;
+  }
+  
+  .products {
+    left: 200px;
+  }
+  
+  .enclave {
+    left: 305px;
+    color: #666666; /* Replace with your desired color for this item */
+  }
+  
+  .faqs {
+    left: 399px;
+  }
+  
+  .connect {
+    left: 1201px;
+    width: 227px;
+    height: 48px;
+    font-size: 14px; /* Replace with your desired font size for the connect button */
+  }

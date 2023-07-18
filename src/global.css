@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-chakra-petch: "Chakra Petch";
+  --font-open-sans: "Open Sans";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-9xl: 28px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+  --font-size-sm-5: 13.5px;
+
+  /* Colors */
+  --color-gray-100: rgba(255, 255, 255, 0.4);
+  --color-gray-200: rgba(255, 255, 255, 0.2);
+  --color-gray-300: rgba(255, 255, 255, 0.5);
+  --color-gray-400: rgba(255, 255, 255, 0);
+  --base-grey-0: #fff;
+  --color-slategray: #5e6079;
+  --dark-bar: rgba(153, 162, 213, 0.08);
+  --color-dimgray: #505050;
+  --color-darkturquoise: #13e0fe;
+  --color-lavender: #ede8fc;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-8xs: 5px;
+}
+@media screen and (max-width: 768px) {
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+  :root {
+    /* fonts */
+    --font-chakra-petch: "Chakra Petch";
+    --font-jano-sans-pro: "Jano Sans Pro";
+  
+    /* font sizes */
+    --font-size-xs: 12px;
+    --font-size-sm: 14px;
+    --font-size-base: 16px;
+    --font-size-xl: 20px;
+  
+    /* Colors */
+    --color-dimgray: #505050;
+    --base-grey-0: #fff;
+    --color-darkturquoise: #13e0fe;
+  }
+  
+}

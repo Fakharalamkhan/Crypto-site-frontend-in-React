@@ -1,0 +1,511 @@
+@media (max-width: 768px) {
+  /* Your mobile-specific CSS styles go here */
+
+.modelight-typedefault-icon {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 195px);
+  width: 390px;
+  height: 44px;
+}
+.home-indicator {
+  position: absolute;
+  top: calc(50% - 2px);
+  left: calc(50% - 67px);
+  border-radius: 100px;
+  background-color: #fff;
+  width: 134px;
+  height: 5px;
+}
+.modelight {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 195px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 390px;
+  height: 34px;
+}
+.mobile-parent-child {
+  position: absolute;
+  top: 74px;
+  left: 338px;
+  width: 36px;
+  height: 36px;
+}
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  height: 79.23%;
+  width: 19.45%;
+  top: 9.39%;
+  right: 80.55%;
+  bottom: 11.38%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1 {
+  height: 79.31%;
+  width: 12.13%;
+  top: 9.33%;
+  right: 70.95%;
+  bottom: 11.36%;
+  left: 16.91%;
+}
+.empyreal {
+  margin: 0;
+}
+.exchange {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.5);
+}
+.empyreal-exchange {
+  position: absolute;
+  top: 0;
+  left: 32.66%;
+  letter-spacing: -0.03em;
+  line-height: 14.12px;
+  font-weight: 600;
+}
+.lockup {
+  position: absolute;
+  top: 77px;
+  left: 25px;
+  width: 90.59px;
+  height: 29px;
+  text-align: left;
+  font-size: 13.53px;
+  font-family: "Jano Sans Pro";
+}
+.mobile-parent-item {
+  position: absolute;
+  top: 697px;
+  left: calc(50% - 550px);
+  width: 60px;
+  height: 0;
+  opacity: 0.2;
+}
+.xtarot {
+  position: absolute;
+  top: 0;
+  left: 3.79%;
+  line-height: 28px;
+  font-weight: 500;
+}
+.headline {
+  position: absolute;
+  top: 143px;
+  left: calc(50% - 159px);
+  width: 317px;
+  height: 64px;
+  font-size: 28px;
+}
+.the-gateway-for {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.body {
+  position: absolute;
+  top: 227px;
+  left: calc(50% - 155px);
+  width: 309px;
+  height: 174px;
+}
+.mobile-daily-tx-child,
+.mobile-total-tx {
+  position: absolute;
+  height: 9.78%;
+  width: 100%;
+  top: 27.21%;
+  right: 0;
+  bottom: 63.02%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mobile-daily-tx-child {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.b,
+.daily-transactions {
+  position: absolute;
+  height: 18.48%;
+  width: 53.96%;
+  top: 26.09%;
+  left: 23.02%;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.b {
+  width: 87.92%;
+  top: 55.43%;
+  left: 6.04%;
+  font-size: 20px;
+  color: #13e0fe;
+}
+.corner-icon,
+.corner-icon1,
+.corner-icon2,
+.corner-icon3 {
+  position: absolute;
+  height: 3.26%;
+  width: 0.84%;
+  top: 0;
+  right: 99.16%;
+  bottom: 96.74%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.corner-icon1,
+.corner-icon2,
+.corner-icon3 {
+  right: 0;
+  left: 99.16%;
+}
+.corner-icon2,
+.corner-icon3 {
+  top: 96.74%;
+  bottom: 0;
+}
+.corner-icon3 {
+  right: 99.16%;
+  left: 0;
+}
+.mobile-daily-tx,
+.mobile-tvl {
+  position: absolute;
+  height: 9.78%;
+  width: 100%;
+  top: 13.6%;
+  right: 0;
+  bottom: 76.62%;
+  left: 0;
+}
+.mobile-tvl {
+  top: 0;
+  bottom: 90.22%;
+}
+.total-transactions {
+  height: 1.81%;
+  width: 53.96%;
+  top: 29.76%;
+  left: 23.12%;
+}
+.b1,
+.recent-transactions,
+.total-transactions {
+  position: absolute;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.b1 {
+  height: 1.81%;
+  width: 87.92%;
+  top: 32.62%;
+  left: 6.13%;
+  font-size: 20px;
+  color: #13e0fe;
+}
+.recent-transactions {
+  height: 3.28%;
+  width: 59.35%;
+  top: 0;
+  left: 20.47%;
+}
+.july-10-2023 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  width: 95px;
+  flex-shrink: 0;
+}
+.div {
+  width: 65px;
+}
+.div,
+.div1,
+.transfer {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.div1 {
+  color: #13e0fe;
+  width: 124px;
+}
+.transfer {
+  width: 61px;
+}
+.frame-div,
+.july-10-2023-container,
+.july-10-2023-group,
+.july-10-2023-parent,
+.july-10-2023-parent1,
+.july-10-2023-parent2 {
+  position: absolute;
+  height: 5.06%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 94.94%;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-div,
+.july-10-2023-container,
+.july-10-2023-group,
+.july-10-2023-parent1,
+.july-10-2023-parent2 {
+  top: 6.33%;
+  bottom: 88.61%;
+}
+.frame-div,
+.july-10-2023-container,
+.july-10-2023-parent1,
+.july-10-2023-parent2 {
+  top: 12.66%;
+  bottom: 82.28%;
+}
+.frame-div,
+.july-10-2023-parent1,
+.july-10-2023-parent2 {
+  top: 18.99%;
+  bottom: 75.95%;
+}
+.july-10-2023-parent1,
+.july-10-2023-parent2 {
+  top: 25.32%;
+  bottom: 69.62%;
+}
+.july-10-2023-parent2 {
+  top: 31.65%;
+  bottom: 63.29%;
+}
+.july-10-2023-parent3,
+.july-10-2023-parent4,
+.july-10-2023-parent5,
+.july-10-2023-parent6,
+.july-10-2023-parent7,
+.july-10-2023-parent8,
+.july-10-2023-parent9 {
+  position: absolute;
+  height: 5.06%;
+  width: 100%;
+  top: 37.97%;
+  right: 0;
+  bottom: 56.96%;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.july-10-2023-parent4,
+.july-10-2023-parent5,
+.july-10-2023-parent6,
+.july-10-2023-parent7,
+.july-10-2023-parent8,
+.july-10-2023-parent9 {
+  top: 44.3%;
+  bottom: 50.63%;
+}
+.july-10-2023-parent5,
+.july-10-2023-parent6,
+.july-10-2023-parent7,
+.july-10-2023-parent8,
+.july-10-2023-parent9 {
+  top: 50.63%;
+  bottom: 44.3%;
+}
+.july-10-2023-parent6,
+.july-10-2023-parent7,
+.july-10-2023-parent8,
+.july-10-2023-parent9 {
+  top: 56.96%;
+  bottom: 37.97%;
+}
+.july-10-2023-parent7,
+.july-10-2023-parent8,
+.july-10-2023-parent9 {
+  top: 63.29%;
+  bottom: 31.65%;
+}
+.july-10-2023-parent8,
+.july-10-2023-parent9 {
+  top: 69.62%;
+  bottom: 25.32%;
+}
+.july-10-2023-parent9 {
+  top: 75.95%;
+  bottom: 18.99%;
+}
+.july-10-2023-parent10 {
+  position: absolute;
+  top: 82.28%;
+  bottom: 12.66%;
+  left: 0;
+}
+.july-10-2023-parent10,
+.july-10-2023-parent11,
+.july-10-2023-parent12 {
+  height: 5.06%;
+  width: 100%;
+  right: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.july-10-2023-parent11 {
+  position: absolute;
+  top: 88.61%;
+  bottom: 6.33%;
+  left: 0;
+}
+.july-10-2023-parent12 {
+  top: 94.94%;
+  bottom: 0;
+}
+.date,
+.july-10-2023-parent12,
+.transactions {
+  position: absolute;
+  left: 0;
+}
+.transactions {
+  height: 94.23%;
+  width: 100%;
+  top: 5.77%;
+  right: 0;
+  bottom: 0;
+}
+.date {
+  top: 0;
+}
+.amount,
+.date,
+.time {
+  line-height: 24px;
+}
+.time {
+  position: absolute;
+  top: 0;
+  left: 32.51%;
+}
+.amount {
+  left: 60.37%;
+}
+.amount,
+.date-parent,
+.type {
+  position: absolute;
+  top: 0;
+}
+.type {
+  left: 91.33%;
+  line-height: 24px;
+}
+.date-parent {
+  height: 4.77%;
+  width: 95.85%;
+  right: 4.15%;
+  bottom: 95.23%;
+  left: 0;
+  font-size: 12px;
+  color: #505050;
+}
+.transactions-parent {
+  position: absolute;
+  height: 94.73%;
+  width: 100%;
+  top: 5.27%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: left;
+  font-size: 14px;
+}
+.recent-transactions-parent {
+  position: absolute;
+  height: 94.48%;
+  width: 93.87%;
+  top: 3.74%;
+  right: 3.06%;
+  bottom: 1.78%;
+  left: 3.06%;
+}
+.corner-icon10,
+.corner-icon11,
+.corner-icon8,
+.corner-icon9 {
+  position: absolute;
+  height: 0.53%;
+  width: 0.84%;
+  top: 0;
+  right: 99.16%;
+  bottom: 99.47%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.corner-icon10,
+.corner-icon11,
+.corner-icon9 {
+  right: 0;
+  left: 99.16%;
+}
+.corner-icon10,
+.corner-icon11 {
+  top: 99.47%;
+  bottom: 0;
+}
+.corner-icon11 {
+  right: 99.16%;
+  left: 0;
+}
+.mobile-transactions {
+  position: absolute;
+  top: 379px;
+  left: 0;
+  width: 359px;
+  height: 562px;
+}
+.mobile-total-tx-parent {
+  position: absolute;
+  height: 66.13%;
+  width: 92.05%;
+  top: 30.29%;
+  right: 4.62%;
+  bottom: 3.58%;
+  left: 3.33%;
+}
+.mobile-parent {
+  position: relative;
+  background-color: #111118;
+  width: 100%;
+  height: 1423px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+  font-family: "Chakra Petch";
+}
+}

@@ -1,0 +1,83 @@
+/* Popup styles */
+.popup {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    width: 300px;
+    background-color: #25272a;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center; /* Center the items horizontally */
+  }
+  
+  /* Logo styles */
+  .logo {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    background-image: src=("popuppic.png"); /* Relative URL to the image */
+    background-size: cover;
+    border-radius: 50%;
+    margin: 0 auto 20px;
+  }
+  
+  /* Welcome back text styles */
+  .welcome-back {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Paragraph styles */
+  p {
+    color: white; /* Set the paragraph text color to white */
+    margin-bottom: 2em; /* Add a margin of 2em (adjust as needed) between the paragraph and the input field */
+  }
+  
+  /* Input styles */
+  input[type='password'] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Submit button styles */
+  .submit-button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 8px 20px; /* Make the button narrower in height and wider in width */
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .popup-container {
+    position: relative;
+    z-index: 9999; /* Adjust the z-index value as needed */
+  }
+  
+  .submit-button:hover {
+    background-color: #2980b9;
+  }
+  
+  /* Close button styles */
+  .close-button {
+    background-color: #25272a;
+    color:  #2980b9;
+    width: auto;
+    border: none;
+    padding: 8px 20px; /* Make the button narrower in height and wider in width */
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
